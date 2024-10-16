@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="src\AppHost\AppHost.csproj" />
+  <Project Path="src\EventBusRabbitMq\EventBusRabbitMq.csproj" Type="Classic C#" />
+  <Project Path="src\EventBus\EventBus.csproj" Type="Classic C#" />
+  <Project Path="src\ServiceDefaults\ServiceDefaults.csproj" />
+  <Project Path="src\TestEventBus\TestEventBus.csproj" Type="Classic C#" />
+</Solution>
